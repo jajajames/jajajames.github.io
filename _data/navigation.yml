@@ -2,7 +2,7 @@
 main:
 
   - title: "Resume"
-    url: https://s3.amazonaws.com/jhbushinfo/james-h-bush-resume.pdf
+    url: https://s3.amazonaws.com/jhbushinfo/resume-james-h-bush.pdf
 
   - title: "Blog"
     url: https://medium.com/@jamesbvsh
